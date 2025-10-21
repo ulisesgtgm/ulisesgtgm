@@ -1,4 +1,4 @@
-# Hello, my name is Ulises Gutierrez 👋
+# Hello, my name is Ulises Gutiérrez 👋
 <img src="https://raw.githubusercontent.com/ulisesgez/icons/7861ac417a01d262c6fbf933aa5583103f2e6370/main.svg">
 
 ```python
