@@ -26,6 +26,3 @@ print("Hello world and welcome!, I am a growing self-taught software engineer.")
   <a href="https://www.linkedin.com/in/ulisesgez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:gu362937@uaeh.edu.mx" target="_blank"><img src="https://img.shields.io/badge/-Gmail-bb001b?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-
-[![roadmap.sh](https://roadmap.sh/card/tall/66589753b998f3b3c7f043e2?variant=dark)](https://roadmap.sh)
