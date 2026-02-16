@@ -19,5 +19,7 @@ print("Hello world and welcome!, I am a growing self-taught software engineer.")
   <a href="https://ulisesgtgm.super.site/" target="_blank"><img src="https://img.shields.io/badge/Blog-252525?style=for-the-badge&logo=notion&logoColor=white"></a>
   <a href="https://www.instagram.com/ulisesgtgm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ulisesgtgm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:ulisesgtgm@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-bb001b?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:ulisesgtgm@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
+  <a href = "mailto:ulisesgtgm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-bb001b?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
