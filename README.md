@@ -9,7 +9,7 @@ print("Hello world and welcome!, I am a growing self-taught software engineer.")
 
 <div style="display: inline_block"><br>
   <img align="center" alt="excel" height="30" width="40" src="https://www.svgrepo.com/show/373589/excel.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://www.svgrepo.com/show/355133/mysql.svg">
 </div>
   
   ##
