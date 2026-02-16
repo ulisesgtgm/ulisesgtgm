@@ -1,5 +1,5 @@
 # Hi, I’m Ulises👋
-<img src="ulisesgtgm_small.svg">
+<img src="ulisesgtgm_small.svg" width="100%" />
 
 ```python
 print("Hello world and welcome!, I am a growing self-taught software engineer.")
