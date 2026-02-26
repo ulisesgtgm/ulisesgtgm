@@ -23,3 +23,5 @@ print("Hello world and welcome!, I am a growing self-taught software engineer.")
   <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
   <a href = "mailto:ulisesgtgm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-bb001b?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/699f9e8f3092530469951ecf?variant=dark)](https://roadmap.sh)
